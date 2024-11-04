@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DAVIDSUSAIRAJ/david-unique-id.git"
+    "url": "git+https://github.com/DAVIDSUSAIRAJ/NPM_UID.git"
   },
   "author": "David Susairaj",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DAVIDSUSAIRAJ/david-unique-id/issues"
+    "url": "https://github.com/DAVIDSUSAIRAJ/NPM_UID/issues"
   },
-  "homepage": "https://github.com/DAVIDSUSAIRAJ/david-unique-id#readme",
+  "homepage": "https://github.com/DAVIDSUSAIRAJ/NPM_UID#readme",
   "keywords": [
     "unique",
     "id",
