@@ -1,13 +1,9 @@
+
 {
   "name": "david-unique-id",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A module that returns the current timestamp as a unique ID.",
-  "main": "package/index.js",
-  "type": "module",
-  "exports": {
-    ".": "./package/index.js"
-  },
-  "types": "types/david-unique-id.d.ts",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
