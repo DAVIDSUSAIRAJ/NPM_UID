@@ -1,6 +1,6 @@
 {
   "name": "david-unique-id",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A module that returns the current timestamp as a unique ID.",
   "main": "index.js",
   "scripts": {
